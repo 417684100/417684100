@@ -128,12 +128,12 @@ P = V × I = 10 V × 0.01 A = 0.1 W
 
 由于电路只包含理想直流电源和电阻，因此在暂态仿真中电压和电流一直保持常数。
 
-![Day 1 单电阻仿真](2026-11-03-day01-single-resistor.png)
+![Day 1 单电阻仿真](images/2026-11-03-day01-single-resistor.png)
 
 源文件：
 
-- [单电阻暂态仿真](https://github.com/417684100/417684100/blob/main/simulations/day01-single-resistor-tran.asc)
-- [单电阻工作点仿真](https://github.com/417684100/417684100/blob/main/simulations/day01-single-resistor-op.asc)
+- [单电阻暂态仿真](simulations/day01-single-resistor-tran.asc)
+- [单电阻工作点仿真](simulations/day01-single-resistor-op.asc)
 
 ### 实验二：双电阻串联电路
 
@@ -188,11 +188,11 @@ P(R2) = I² × R2
 P(总) ≈ 33.33 mW
 ```
 
-![Day 1 双电阻串联仿真](2026-11-03-day01-series-resistors.png)
+![Day 1 双电阻串联仿真](images/2026-11-03-day01-series-resistors.png)
 
 源文件：
 
-- [双电阻串联工作点仿真](https://github.com/417684100/417684100/blob/main/simulations/day01-series-resistors-op.asc)
+- [双电阻串联工作点仿真](simulations/day01-series-resistors-op.asc)
 
 ## 四、闭卷测验与订正
 
