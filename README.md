@@ -6,4 +6,5 @@
 
 - [Day 1：电学基础与 LTspice 入门](learning-notes/day1/README.md)
 - [Day 2：欧姆定律、混联网络与 LTspice 验证](learning-notes/day2/README.md)
+- [Day 3：电容基础与 RC 暂态](learning-notes/day3/README.md)
 - [2026-11-03｜戴维南定理](learning-notes/2026-11-03-thevenin-theorem.md)
