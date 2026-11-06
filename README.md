@@ -10,4 +10,5 @@
 - [Day 4：电感、RL 暂态与磁场储能](learning-notes/day4/README.md)
 - [Day 5：正弦量、相位、阻抗与 RC/RL 滤波](learning-notes/day5/README.md)
 - [Day 7：二极管、整流与肖特基](learning-notes/day7/README.md)
+- [Day 8：BJT、MOS 与低边开关](learning-notes/day8/README.md)
 - [2026-11-03｜戴维南定理](learning-notes/2026-11-03-thevenin-theorem.md)
